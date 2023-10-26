@@ -3,6 +3,7 @@ function feature1() {
 }
 
 function feature2() {
-    //comment from B //
+    //comment from B
     alert('from feature2');
+    alert('from B')
 }
